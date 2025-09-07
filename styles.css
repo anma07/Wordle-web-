@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  background-color: #3ddfff;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+}
+
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+td {
+  width: 60px;
+  height: 60px;
+  border: 2px solid #333;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 24px;
+  font-family: 'Arvo', sans-serif;
+  text-transform: uppercase;
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
