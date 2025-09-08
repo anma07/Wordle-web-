@@ -30,3 +30,18 @@ footer {
   color: #DBEDF3;
   font-family: sans-serif;
 }
+
+.correct {
+  background-color: rgb(0, 255, 0);
+  color: white;
+}
+
+.present {
+  background-color: rgb(255, 183, 0);
+  color: white;
+}
+
+.absent {
+  background-color: gray;
+  color: black;
+}
