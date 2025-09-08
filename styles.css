@@ -33,12 +33,12 @@ footer {
 
 .correct {
   background-color: rgb(0, 255, 0);
-  color: white;
+  color: black;
 }
 
 .present {
   background-color: rgb(255, 183, 0);
-  color: white;
+  color: black;
 }
 
 .absent {
